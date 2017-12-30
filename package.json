@@ -1,0 +1,17 @@
+{
+  "name": "movies-descriptor",
+  "version": "1.0.0",
+  "description":
+    "find full info about all your movies and get their Posters just by providing the path of your movies directory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Islam Wahid",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
